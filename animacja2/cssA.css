@@ -12,7 +12,7 @@
 }
 
 .active {
-  transform: rotate(24370deg);
+  transform: rotate(21370deg);
   border-bottom-color: yellow;
   border-left-color: darkgreen;
   border-right-color: cadetblue;
