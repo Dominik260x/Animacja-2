@@ -52,10 +52,10 @@ body {
     height: 20vh;
     background-color: white;
     border-radius: 50%;
-    border-bottom: 110px solid red;
-    border-left: 110px solid orange;
-    border-right: 110px solid blue;
-    border-top: 110px solid green;
+    border-bottom: 115px solid red;
+    border-left: 115px solid orange;
+    border-right: 115px solid blue;
+    border-top: 115px solid green;
     margin: 0 auto;
     transition: all 10s ease, border 3s ease-in-out, background-color 10s ease;
   }
