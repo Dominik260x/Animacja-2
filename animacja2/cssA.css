@@ -23,9 +23,14 @@
 button {
   background-color: brown;
   color: white;
-  width: 200px;
-  height: 30px;
   display: block;
   margin: 20px auto;
   border: none;
+  font-size: 65px;
+  border-radius: 15%;
+  border: solid 3px black;
+}
+
+body {
+  background-color: aquamarine;
 }
