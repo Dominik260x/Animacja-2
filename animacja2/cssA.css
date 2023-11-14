@@ -34,3 +34,29 @@ button {
 body {
   background-color: aquamarine;
 }
+
+@media (orientation: portrait) {
+  button {
+    background-color: brown;
+    color: white;
+    display: block;
+    margin: 20px auto;
+    border: none;
+    font-size: 35px;
+    border-radius: 15%;
+    border: solid 3px black;
+  }
+
+  .circle {
+    width: 15vh;
+    height: 15vh;
+    background-color: white;
+    border-radius: 50%;
+    border-bottom: 100px solid red;
+    border-left: 100px solid orange;
+    border-right: 100px solid blue;
+    border-top: 100px solid green;
+    margin: 0 auto;
+    transition: all 10s ease, border 3s ease-in-out, background-color 10s ease;
+  }
+}
