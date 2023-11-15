@@ -11,6 +11,11 @@
   transition: all 10s ease, border 3s ease-in-out, background-color 10s ease;
 }
 
+main {
+ background-color: white;
+ pading: 20px 10px;
+}
+
 .active {
   transform: rotate(21370deg);
   border-bottom-color: yellow;
