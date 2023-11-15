@@ -64,4 +64,10 @@ body {
     margin: 0 auto;
     transition: all 10s ease, border 3s ease-in-out, background-color 10s ease;
   }
+
+  
+main {
+ background-color: white;
+ pading: 10px 20px;
+}
 }
